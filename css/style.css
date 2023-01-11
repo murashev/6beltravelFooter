@@ -1,0 +1,38 @@
+.footer {
+   min-height: 412px;
+   background-color: #353032;
+}
+
+.footer h6 {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 500;
+   font-size: 18px;
+   color: #FFFFFF;
+}
+
+.footer p {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   font-size: 14px;
+   color: #FFFFFF 79%;
+}
+
+.footer .btn {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 600;
+   font-size: 15px;
+}
+
+.footer .copyright {
+   border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.footer .copyright .copyright-text {
+   padding-top: 31px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   font-size: 13px;
+   color: rgba(255, 255, 255, 0.72);
+}
+
+
